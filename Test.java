@@ -2,5 +2,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("Naura cantik banget");
+        System.out.println("keisha imut banet unch");
     }
 }
